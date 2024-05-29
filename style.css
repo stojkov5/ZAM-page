@@ -64,7 +64,7 @@ main {
 .page-sub-title {
   font-size: 1rem;
   font-size: clamp(1rem, 0.823943661971831rem + 0.7511737089201878vw, 1.5rem);
-  line-height: 33px;
+  line-height: 20px;
   color: #37586f;
 }
 
